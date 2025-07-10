@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F3F2F0;
+}
+.letra {
+    color: #515332;
+}
+.caja {
+    width: 20%;
+    line-height: 1.6; 
+    background-color: #E9E6E4;
+    color: rgb(77, 68, 66);
+    padding: 20px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    margin-top: 350px;
+}

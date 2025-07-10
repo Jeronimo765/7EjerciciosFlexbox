@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.seccion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ddd;
+  padding: 10px 15px;
+  width: 300px;
+}
+
+.seccion a {
+  color: #020302;
+  text-decoration: none;
+}
+.seccion button {
+  padding: 5px 10px;
+}
